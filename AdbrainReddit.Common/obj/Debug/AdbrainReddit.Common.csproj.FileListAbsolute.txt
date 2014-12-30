@@ -1,0 +1,5 @@
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Common\bin\Debug\AdbrainReddit.Common.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Common\bin\Debug\AdbrainReddit.Common.pdb
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Common\obj\Debug\AdbrainReddit.Common.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Common\obj\Debug\AdbrainReddit.Common.pdb
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Common\obj\Debug\AdbrainReddit.Common.csprojResolveAssemblyReference.cache

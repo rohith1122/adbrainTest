@@ -1,0 +1,11 @@
+D:\WebSites\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\AdbrainReddit.Data.Tests.dll
+D:\WebSites\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\AdbrainReddit.Data.Tests.pdb
+D:\WebSites\AdbrainReddit\AdbrainReddit.Data.Tests\obj\Debug\AdbrainReddit.Data.Tests.csprojResolveAssemblyReference.cache
+D:\WebSites\AdbrainReddit\AdbrainReddit.Data.Tests\obj\Debug\AdbrainReddit.Data.Tests.dll
+D:\WebSites\AdbrainReddit\AdbrainReddit.Data.Tests\obj\Debug\AdbrainReddit.Data.Tests.pdb
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\AdbrainReddit.Data.Tests.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\AdbrainReddit.Data.Tests.pdb
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\obj\Debug\AdbrainReddit.Data.Tests.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Data.Tests\obj\Debug\AdbrainReddit.Data.Tests.pdb

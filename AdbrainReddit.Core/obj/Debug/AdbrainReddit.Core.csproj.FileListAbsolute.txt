@@ -1,0 +1,4 @@
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Core\bin\Debug\AdbrainReddit.Core.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Core\bin\Debug\AdbrainReddit.Core.pdb
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Core\obj\Debug\AdbrainReddit.Core.dll
+C:\Users\mk1kiranrohith\Desktop\AdbrainReddit\AdbrainReddit.Core\obj\Debug\AdbrainReddit.Core.pdb
